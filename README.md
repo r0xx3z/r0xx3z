@@ -23,7 +23,7 @@ Building Android kernels, recoveries and system-level tooling.
 ## Current Focus
 
 - Android kernel development
-- Recovery development (OrangeFox / TWRP)
+- Recovery development (OrangeFox)
 - Bash automation & tooling
 - Rust, C/C++, ASM experimentation
 - Linux internals
@@ -36,12 +36,6 @@ Building Android kernels, recoveries and system-level tooling.
 Custom Android kernel focused on optimization, stability and tuning.
 
 **Tech:** C, Bash, Kernel development, Android
-
-### Device Trees & Bring-up
-Device support, vendor fixes, boot debugging and maintenance.
-
-### Recovery Development
-Custom recovery maintenance and customization.
 
 ---
 
