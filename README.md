@@ -4,8 +4,8 @@
 
 **Low-level enthusiast • Android kernel maintainer • Linux tinkerer**
 
-Building Android kernels, recoveries and system-level tooling.
-
+Building Android kernels, recoveries, system-level tooling and a great learning experience for the future.
+ 
 </div>
 
 ---
@@ -15,17 +15,15 @@ Building Android kernels, recoveries and system-level tooling.
 - 🧠 Interested in low-level systems, Linux internals and Android bring-up
 - 📱 Maintaining Android-related projects and kernel work
 - ⚙️ Focused on performance tuning, debugging and system optimization
-- 🐧 Linux user and terminal enjoyer
+- 🐧 Linux user forever 
 - 🌱 Currently learning more about systems programming and computer architecture
 
 ---
 
 ## Current Focus
 
-- Android kernel development
-- Recovery development (OrangeFox)
-- Bash automation & tooling
-- Rust, C/C++, ASM experimentation
+- Kernel development
+- Recovery development 
 - Linux internals
 
 ---
