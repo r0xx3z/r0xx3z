@@ -23,7 +23,8 @@ Building Android kernels, recoveries, system-level tooling and a great learning 
 ## Current Focus
 
 - Kernel development
-- Recovery development 
+- Recovery development
+- Performance Tuning
 - Linux internals
 
 ---
