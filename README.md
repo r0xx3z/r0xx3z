@@ -34,7 +34,7 @@ Building Android kernels, recoveries, system-level tooling and a great learning 
 ### [Miranda's Kernel](https://t.me/mir4ndSupport)
 Custom Android kernel focused on optimization, stability and tuning.
 
-**Tech:** C, Bash, Kernel development, Android
+**Tech:** C, Bash, Kernel/Recovery development, Android
 
 ---
 
@@ -56,11 +56,6 @@ Custom Android kernel focused on optimization, stability and tuning.
    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=rust" width="48" height="48"/>
       <br>Rust
-    </td>
-
-  <td align="center" width="100">
-      <img src="https://www.svgrepo.com/show/373445/assembly.svg" width="48" height="48"/>
-      <br>ASM
     </td>
 
   <td align="center" width="100">
@@ -90,18 +85,9 @@ Custom Android kernel focused on optimization, stability and tuning.
   </td>
 
   <td align="center" width="100">
-    <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48"/>
-    <br>PowerShell
-  </td>
-
-  <td align="center" width="100">
     <img src="https://skillicons.dev/icons?i=windows" width="48" height="48"/>
     <br>Windows
   </td>
-
-  <td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48"/>
-  <br>Arduino
 </td>
 
 </tr>
